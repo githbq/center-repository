@@ -1,0 +1,26 @@
+[
+    {
+        "user": {
+            "name": "",
+            "email": "",
+            "department": ""
+        },
+        "repository": {
+            "url": "",
+            "branch": "",
+            "commitId": "",
+        }
+    },
+    {
+        "user": {
+            "name": "",
+            "email": "",
+            "department": ""
+        },
+        "repository": {
+            "url": "",
+            "branch": "",
+            "commitId": ""
+        }
+    }
+]
