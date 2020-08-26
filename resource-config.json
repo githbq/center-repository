@@ -90,5 +90,17 @@
       "branch": "master",
       "commitId": "4d35120781735c5f739940a5dc97c6d6a3992c4d"
     }
+  },
+  {
+    "user": {
+      "name": "hubiqing",
+      "email": "hbqhbq123@qq.com",
+      "department": "departent10.5651026671028037"
+    },
+    "repository": {
+      "url": "https://github.com/githbq/temp-project1.git",
+      "branch": "master",
+      "commitId": "4a2f4eb02363e9f214deeb8e05fc034b6a346473"
+    }
   }
 ]
