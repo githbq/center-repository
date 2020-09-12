@@ -1,0 +1,3 @@
+[submodule "modules/department1/module1"]
+	path = modules/department1/module1
+	url = https://github.com/githbq/temp-project1.git
