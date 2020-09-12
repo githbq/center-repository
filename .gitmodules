@@ -1,3 +1,7 @@
 [submodule "modules/department1/module1"]
 	path = modules/department1/module1
 	url = https://github.com/githbq/temp-project1.git
+[submodule "modules/department2/learn-linux"]
+	path = modules/department2/learn-linux
+	url = https://github.com/githbq/hbq-learn-linux.git
+	branch = dev
